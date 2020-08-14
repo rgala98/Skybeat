@@ -3,7 +3,10 @@ It is a spotify clone.
 
 I created this for my react portfolio
 
-Live websiyte could be found at https://skybeat-spotify-clone.web.app/
+![Image of the Project](https://imgur.com/1OT2Ifq)
+
+
+Live website could be found at https://skybeat-spotify-clone.web.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
